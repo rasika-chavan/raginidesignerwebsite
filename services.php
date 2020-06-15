@@ -27,7 +27,7 @@
 						<div class="item col-sm-12 col-md-4">
 							<i class="flaticon-like"></i>
 							<h3>Beauty Services</h3>
-							<p>Facial,Manucure,padicure and many more</p>
+							<p>Facial, Manicure, pedicure and many more</p>
 						</div>
 						<!-- /.Item -->
 						<!-- Item -->
@@ -64,6 +64,7 @@
 							<h3>Support 24/7</h3>
 
 						</div>
+                       
 						<!-- /.Item -->
 					</div>
 				</div>
@@ -73,9 +74,34 @@
 		
 			<!-- /.Section Services 2 -->
 			<!-- Section Services 2 -->
-			
+			<style>
+            .button {
+   /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+</style>
 			<!-- /.Section How We Work -->
 			<!-- Section CTA 3 -->
+            <div id="section-cta3">
+				<div class="container">
+					<div class="row">
+						<div class="title1 col-12">
+							<h2><span>Click <a href="portfolio.php"><button class="button" style="background-color: #555555">Here</button>For some of our works</a></h2>
+							<h2><span>Click <a href="https://www.raginidesigner.me/beauty.php"><button class="button" style="background-color: #555555">Here</button>For Beauty Services</a></h2>
+							<h2><span>Click <a href="https://raginidesigner.me/services-work.php"><button class="button" style="background-color: #555555">Here</button>For Designing Services</a></h2>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
 			<div id="section-cta3">
 				<div class="container">
 					<div class="row">
